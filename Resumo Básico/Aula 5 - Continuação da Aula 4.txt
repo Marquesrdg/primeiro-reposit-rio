@@ -1,0 +1,15 @@
+Flag - A lista pastas ocultas
+
+add um arquivo MARKDOWN
+
+forma mais humana de escrever um html
+
+git status = mpnitora os status dos arquivos
+
+mv= para mover arquivos
+
+git add . para adicionar todos os arquivos 
+
+git commit - para criar um commit e mandar para o github
+
+git push origin (main) para finalizar e criar o commit

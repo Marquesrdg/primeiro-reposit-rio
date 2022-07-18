@@ -1,0 +1,20 @@
+Definição formal: forma de pensamento estruturada que auxilia na resolução dos problemas.
+
+forma coesa, segue padrão
+
+Lógica na computação: organização e planejamento das instrções, assertivas em um algoritimo, afim de viabilizar a implantação de um programa.
+
+Técnicas de lógica de programação
+
+Técnica linear
+sequência matemática
+
+técnica estruturada
+
+
+objetivo:Escrita
+               Entendimento
+               Validação
+               Manutenção
+
+Técnica modular: passo a passo 

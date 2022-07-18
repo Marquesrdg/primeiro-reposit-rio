@@ -1,0 +1,9 @@
+Variável: estrutura mutável, instável, inserta, inconstante, instavel
+
+vetor: é caracterizado por uma variável dimensionada com tamanho pré-fixado
+
+função: são blocos de instruções que realizam tarefas especificas
+
+introdução a linguagem de programação
+
+caracteristicas: legibilidade, redigibilidade, confiabilidade, custo

@@ -1,0 +1,35 @@
+*Sistematico e Eficiente
+*Habilidade Generalista
+
+4 Pilares
+
+- Decomposição
+-Reconhecimento de padrões
+-Abstração
+-Design de Algoritimos
+
+Habilidades complementares
+
+Raciocínio Lógico + Forma de Pensamento
+
+indução / Dedução / Abdução
+
+Pilares: Decomposição/Segmentar
+
+Análise: Segmentar para resolver
+
+Síntase: Juntar de forma certa
+
+Pilares: Padrão e repetiçao
+
+determinar padróes para obter resolução para problemas diferentes. 
+
+Classes e Categorias
+
+Pilares: Abstração= isolamento de um objeto da realidade
+
+Pilares: algoritimo 
+
+Sequência de instruções para executar uma ação
+
+

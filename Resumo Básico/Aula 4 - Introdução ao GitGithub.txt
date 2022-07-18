@@ -1,0 +1,34 @@
+Introdução ao GIT 
+
+navegação básica no terminal e instalação
+
+comandos básicos de navegação
+
+Comando  Ls = Listar o qie tem nas pastas
+ DIR = listar todas as pastas, para abrir o terminal CMD pasta padrão
+
+CD .. = Retroceder
+
+CD possibilita navegar entre as pastas, entrar.
+
+Cls = limpar ou cntrl L
+
+TAB= tecla de atalho, completa o restante da palavra
+
+mkdir para criar uma nova pasta 
+
+rmdir apagar pasta
+
+ Como o Git funciona oor baixo do panos
+
+sha1 = é o algoritimo do git 40 digitos
+
+Objetos fundamentais 
+
+blobs
+trees
+comits
+
+sistma seguro e distribuido
+
+   
